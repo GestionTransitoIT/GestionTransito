@@ -113,15 +113,15 @@ El sistema integra métricas operativas, estadísticas comparativas y consultas 
   </div>
   <div class="image-card">
     <img src="{{ '/assets/img/TAIlogin.png' | relative_url }}" alt="Inicio de Sesion">
-    <h4>Heatmap de Fiscalizadores</h4>
+    <h4>Inicio de Sesion</h4>
   </div>
   <div class="image-card">
-    <img src="{{ '/assets/img/TAIquery.png' | relative_url }}" alt="Consula Detallada">
-    <h4>Perfil Fiscalizador</h4>
+    <img src="{{ '/assets/img/TAIquery.png' | relative_url }}" alt="Consulta Detallada">
+    <h4>Consulta Detallada</h4>
   </div>
   <div class="image-card">
     <img src="{{ '/assets/img/TAIreceipt.png' | relative_url }}" alt="Consulta de un recibo">
-    <h4>Información de Cámaras</h4>
+    <h4>Consulta de un recibo</h4>
   </div>
 </div>
 
