@@ -56,6 +56,7 @@ layout: default
         </div>
       </div>
     </div>
+    
     <div class="project-card">
       <img src="{{ '/assets/img/TAIlogin.png' | relative_url }}" alt="Login">
       <div class="project-content">
@@ -77,5 +78,29 @@ layout: default
         </div>
       </div>
     </div>
+
+    <div class="project-card">
+      <img src="{{ '/assets/img/Login.png' | relative_url }}" alt="Login">
+      <div class="project-content">
+        <h3>Actividad Municipal Berisso</h3>
+        <p>Dashboard interactivo sobre la actividad de fotomultas en el municipio.</p>
+        <div class="project-tech">
+          <span>Visualizacion</span>
+          <span>Dashboard Interactivo</span>
+        </div>
+
+        <div class="project-actions">
+          <a href="{{ 'herramientas/sigae' | relative_url }}" class="btn primary">
+            Ver detalle
+          </a>
+
+          <a href="https://aset.unlam.edu.ar/beriso/" class="btn secondary">
+            Ingresar
+          </a>
+        </div>
+      </div>
+    </div>
+
+    
   </div>
 </section>
