@@ -76,7 +76,7 @@ title: Inicio
             Ver detalle
           </a>
 
-          <a href="#" class="btn secondary">
+          <a href="https://aset.unlam.edu.ar/beriso/" class="btn secondary">
             Ingresar
           </a>
         </div>
