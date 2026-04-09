@@ -17,10 +17,9 @@ title: Inicio
           con métricas operativas, visualizaciones dinámicas y seguimiento de rendimiento.
         </p>
         <div class="project-tech">
-          <span>Python</span>
-          <span>Streamlit</span>
-          <span>Pandas</span>
-          <span>Data Visualization</span>
+          <span>Dashboard Interactivo</span>
+          <span>Visualización</span>
+          <span>Sistema multiusuario</span>
         </div>
 
         <div class="project-actions">
@@ -63,12 +62,11 @@ title: Inicio
     <div class="project-card">
       <img src="{{ '/assets/img/Login.png' | relative_url }}" alt="Login">
       <div class="project-content">
-        <h3>Actividad Municipal App</h3>
-        <p>Dashboard interactivo sobre la actividad de fotomultas en un municipio. Desarrollado exclusivamente para la Universidad de La Matanza</p>
+        <h3>Actividad Municipal Berisso</h3>
+        <p>Dashboard interactivo sobre la actividad de fotomultas en el municipio.</p>
         <div class="project-tech">
-          <span>Python</span>
           <span>Visualizacion</span>
-          <span>Data Analytics</span>
+          <span>Dashboard Interactivo</span>
         </div>
 
         <div class="project-actions">
