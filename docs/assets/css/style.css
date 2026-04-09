@@ -3,16 +3,17 @@
 /* ============================= */
 
 :root {
-  --bg-main: #0f172a;
-  --bg-secondary: #111827;
+  --bg-main: #f9fafb;        /* fondo principal claro */
+  --bg-secondary: #ffffff;  /* cards */
 
-  --primary: #3cb371;       
-  --secondary: #2e8b57;      
-  --accent: #22c55e;         
+  --primary: #2e8b57;       /* SeaGreen (más sólido en blanco) */
+  --secondary: #3cb371;     /* MediumSeaGreen */
 
-  --text-main: #e5e7eb;
-  --text-muted: #9ca3af;
-  --border: #1f2937;
+  --accent: #22c55e;
+
+  --text-main: #111827;     /* casi negro */
+  --text-muted: #6b7280;    /* gris suave */
+  --border: #e5e7eb;        /* bordes claros */
 }
 
 /* ============================= */
