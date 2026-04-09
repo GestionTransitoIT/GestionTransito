@@ -80,9 +80,9 @@ layout: default
     </div>
 
     <div class="project-card">
-      <img src="{{ '/assets/img/Login.png' | relative_url }}" alt="Login">
+      <img src="{{ '/assets/img/SIGAEtable.png' | relative_url }}" alt="Login">
       <div class="project-content">
-        <h3>Actividad Municipal Berisso</h3>
+        <h3>SIGAE</h3>
         <p>Dashboard interactivo sobre la actividad de fotomultas en el municipio.</p>
         <div class="project-tech">
           <span>Visualizacion</span>
@@ -94,7 +94,7 @@ layout: default
             Ver detalle
           </a>
 
-          <a href="https://aset.unlam.edu.ar/beriso/" class="btn secondary">
+          <a href="http://10.20.100.75:8503" class="btn secondary">
             Ingresar
           </a>
         </div>
