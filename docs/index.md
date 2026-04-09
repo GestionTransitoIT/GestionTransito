@@ -7,7 +7,7 @@ title: Inicio
 
   <div class="hero-content" style="flex-direction: column; align-items: center;">
 
-    <h1 style="margin-bottom: 40px;">Lucas Correa</h1>
+    <h1 style="margin-bottom: 40px;">Gestión Tránsito</h1>
 
     <div class="hero-actions" style="flex-direction: column; gap: 20px; width: 100%; max-width: 400px;">
 
