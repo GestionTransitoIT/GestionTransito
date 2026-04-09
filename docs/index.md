@@ -83,7 +83,7 @@ layout: default
       <img src="{{ '/assets/img/SIGAEtable.png' | relative_url }}" alt="Login">
       <div class="project-content">
         <h3>SIGAE</h3>
-        <p>Dashboard interactivo sobre la actividad de fotomultas en el municipio.</p>
+        <p>Sistema de carga para el registro de notificaciones.</p>
         <div class="project-tech">
           <span>Visualizacion</span>
           <span>Dashboard Interactivo</span>
