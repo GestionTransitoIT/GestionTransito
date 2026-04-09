@@ -56,6 +56,26 @@ layout: default
         </div>
       </div>
     </div>
+    <div class="project-card">
+      <img src="{{ '/assets/img/TAIlogin.png' | relative_url }}" alt="Login">
+      <div class="project-content">
+        <h3>Actividad de Juicios</h3>
+        <p>Dashboard interactivo sobre la actividad de Juicios en Ezeiza.</p>
+        <div class="project-tech">
+          <span>Visualizacion</span>
+          <span>Dashboard Interactivo</span>
+        </div>
 
+        <div class="project-actions">
+          <a href="{{ 'herramientas/tai' | relative_url }}" class="btn primary">
+            Ver detalle
+          </a>
+
+          <a href="https://aset.unlam.edu.ar/tai/" class="btn secondary">
+            Ingresar
+          </a>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
