@@ -320,6 +320,6 @@ h2 {
   margin-bottom: 0.6em;
 }
 .btn.secondary {
-  background: var(--secondary);
+  background: #005ce6;
   color: white;
 }
