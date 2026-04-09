@@ -195,7 +195,7 @@ h2 {
 /* ============================= */
 
 .card {
-  background: #00b33c;
+  background: var(--bg-secondary);
   border: 1px solid var(--border);
   padding: 20px;
   margin-bottom: 20px;
@@ -203,7 +203,7 @@ h2 {
 }
 
 .card:hover {
-  box-shadow: 0 8px 25px rgba(99, 102, 241, 0.25);
+  box-shadow: 0 12px 30px rgba(60, 179, 113, 0.25);
 }
 
 /* ============================= */
