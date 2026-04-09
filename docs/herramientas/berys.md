@@ -95,7 +95,7 @@ Facilita la toma de decisiones mediante indicadores claros, métricas comparativ
   </div>
   <div class="image-card">
     <img src="{{ '/assets/img/Main site.png' | relative_url }}" alt="Dashboard principal">
-    <h4>Dashboard Principak</h4>
+    <h4>Dashboard Principal</h4>
   </div>
   <div class="image-card">
     <img src="{{ '/assets/img/Actividad por Camaras.png' | relative_url }}" alt="Mapa Interactivo">
