@@ -11,7 +11,10 @@ title: Inicio
 
     <div class="hero-actions" style="flex-direction: column; gap: 20px; width: 100%; max-width: 400px;">
 
-      <a href="{{ 'herramientas/tessa' | relative_url }}" class="btn primary" style="width: 100%; text-align: center;">
+      <a href="https://aset.unlam.edu.ar/tessa/" 
+         class="btn primary" 
+         style="width: 100%; text-align: center;"
+         target="_blank">
         T.E.S.S.A
       </a>
 
@@ -23,9 +26,6 @@ title: Inicio
         Actividad Municipal
       </a>
 
-      <a href="{{ '/cv.pdf' | relative_url }}" class="btn secondary" target="_blank" style="width: 100%; text-align: center;">
-        Descargar CV
-      </a>
 
     </div>
 
