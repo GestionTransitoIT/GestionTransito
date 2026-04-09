@@ -107,20 +107,20 @@ El sistema asegura trazabilidad operativa, control documental y transparencia en
 
 <div class="image-grid">
   <div class="image-card">
-    <img src="{{ '/assets/img/Dashindex.png' | relative_url }}" alt="Dashboard principal">
-    <h4>Dashboard Principal</h4>
+    <img src="{{ '/assets/img/SIGAEindex.png' | relative_url }}" alt="Pagina Principal">
+    <h4>Pagina Principal</h4>
   </div>
   <div class="image-card">
-    <img src="{{ '/assets/img/Heatmap auditores.png' | relative_url }}" alt="Heatmap de Fiscalizadores">
-    <h4>Heatmap de Fiscalizadores</h4>
+    <img src="{{ '/assets/img/SIGAEload.png' | relative_url }}" alt="Carga">
+    <h4>Carga</h4>
   </div>
   <div class="image-card">
-    <img src="{{ '/assets/img/Perfil Auditor.png' | relative_url }}" alt="Perfil fiscalizador">
-    <h4>Perfil Fiscalizador</h4>
+    <img src="{{ '/assets/img/SIGAEtable.png' | relative_url }}" alt="Listado de Notificaciones">
+    <h4>Listado de Notificaciones</h4>
   </div>
   <div class="image-card">
-    <img src="{{ '/assets/img/Info Camaras.png' | relative_url }}" alt="Información de Camaras">
-    <h4>Información de Cámaras</h4>
+    <img src="{{ '/assets/img/SIGAEquery.png' | relative_url }}" alt="Consulta">
+    <h4>Consulta</h4>
   </div>
 </div>
 
