@@ -195,7 +195,7 @@ h2 {
 /* ============================= */
 
 .card {
-  background: var(--bg-secondary);
+  background: #00b33c;
   border: 1px solid var(--border);
   padding: 20px;
   margin-bottom: 20px;
