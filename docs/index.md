@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 <section id="proyectos" class="section">
-  <h2>Proyectos</h2>
+  <h2>Herramientas</h2>
 
   <div class="project-grid">
 
