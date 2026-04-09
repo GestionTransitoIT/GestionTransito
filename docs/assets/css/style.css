@@ -319,3 +319,7 @@ h2 {
   margin-top: 0.2em;
   margin-bottom: 0.6em;
 }
+.btn.secondary {
+  background: var(--secondary);
+  color: white;
+}
