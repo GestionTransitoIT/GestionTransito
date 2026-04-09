@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Inicio
 ---
 <section id="proyectos" class="section">
   <h2>Herramientas</h2>
