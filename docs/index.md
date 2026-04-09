@@ -33,29 +33,6 @@ layout: default
       </div>
     </div>
 
-    <!-- WEB SCRAPING -->
-    <div class="project-card">
-      <img src="{{ '/assets/img/webscrapcaptura.jpg' | relative_url }}" alt="Web Scraping">
-      <div class="project-content">
-        <h3>Web Scraping App</h3>
-        <p>Sistema de extracción y procesamiento automático de datos desde múltiples fuentes.</p>
-        <div class="project-tech">
-          <span>Python</span>
-          <span>BeautifulSoup</span>
-          <span>Automation</span>
-        </div>
-
-        <div class="project-actions">
-          <a href="{{ 'herramientas/tai' | relative_url }}" class="btn primary">
-            Ver detalle
-          </a>
-
-          <a href="#" class="btn secondary">
-            Ingresar
-          </a>
-        </div>
-      </div>
-    </div>
 
     <!-- ACTIVIDAD MUNICIPAL -->
     <div class="project-card">
